@@ -1,7 +1,7 @@
 # Object-Oriented-Proramming--Python
-##Contains implementations of all oop concepts in Python.
+Contains implementations of all oop concepts in Python.
 
-###Topics covered - 
+### Topics covered - 
 
 * Class and Objects
 * The _init_ method
