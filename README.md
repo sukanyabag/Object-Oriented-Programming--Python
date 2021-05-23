@@ -1,4 +1,4 @@
-# Object-Oriented-Proramming--Python
+# Object-Oriented-Programming--Python
 Contains implementations of all oop concepts in Python.
 
 ### Topics covered - 
